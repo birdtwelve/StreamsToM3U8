@@ -1,141 +1,7 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="KBSKorea.yt">
-    <display-name lang="en">KBS KOREA Live</display-name>
-  </channel>
-  <programme channel="KBSKorea.yt" start="20260103150000 +0000" stop="20260103180000 +0000">
-    <title lang="en">KBS KOREA On-Air</title>
-    <desc lang="en">[전 세계 한국인의 중심 채널 KBS KOREA]KBS KOREA는 해외동포를 위해 KBS 뉴스, 시사, 교양, 드라마, 예능 프로그램 등을 방송하는 채널입니다. 한국과 같은 시간에 방송되는 다양한 프로그램을 전 세계에서 즐길 수 있습니다. ▶ 편성표 : https://kbswor...</desc>
-    <icon src="https://i.ytimg.com/vi/OxQQsIvJTTU/maxresdefault.jpg?v=64925653"/>
-  </programme>
-  <programme channel="KBSKorea.yt" start="20260103180000 +0000" stop="20260103210000 +0000">
-    <title lang="en">KBS KOREA On-Air</title>
-    <desc lang="en">[전 세계 한국인의 중심 채널 KBS KOREA]KBS KOREA는 해외동포를 위해 KBS 뉴스, 시사, 교양, 드라마, 예능 프로그램 등을 방송하는 채널입니다. 한국과 같은 시간에 방송되는 다양한 프로그램을 전 세계에서 즐길 수 있습니다. ▶ 편성표 : https://kbswor...</desc>
-    <icon src="https://i.ytimg.com/vi/OxQQsIvJTTU/maxresdefault.jpg?v=64925653"/>
-  </programme>
-  <programme channel="KBSKorea.yt" start="20260103210000 +0000" stop="20260104000000 +0000">
-    <title lang="en">KBS KOREA On-Air</title>
-    <desc lang="en">[전 세계 한국인의 중심 채널 KBS KOREA]KBS KOREA는 해외동포를 위해 KBS 뉴스, 시사, 교양, 드라마, 예능 프로그램 등을 방송하는 채널입니다. 한국과 같은 시간에 방송되는 다양한 프로그램을 전 세계에서 즐길 수 있습니다. ▶ 편성표 : https://kbswor...</desc>
-    <icon src="https://i.ytimg.com/vi/OxQQsIvJTTU/maxresdefault.jpg?v=64925653"/>
-  </programme>
-  <programme channel="KBSKorea.yt" start="20260104000000 +0000" stop="20260104030000 +0000">
-    <title lang="en">KBS KOREA On-Air</title>
-    <desc lang="en">[전 세계 한국인의 중심 채널 KBS KOREA]KBS KOREA는 해외동포를 위해 KBS 뉴스, 시사, 교양, 드라마, 예능 프로그램 등을 방송하는 채널입니다. 한국과 같은 시간에 방송되는 다양한 프로그램을 전 세계에서 즐길 수 있습니다. ▶ 편성표 : https://kbswor...</desc>
-    <icon src="https://i.ytimg.com/vi/OxQQsIvJTTU/maxresdefault.jpg?v=64925653"/>
-  </programme>
-  <programme channel="KBSKorea.yt" start="20260104030000 +0000" stop="20260104060000 +0000">
-    <title lang="en">KBS KOREA On-Air</title>
-    <desc lang="en">[전 세계 한국인의 중심 채널 KBS KOREA]KBS KOREA는 해외동포를 위해 KBS 뉴스, 시사, 교양, 드라마, 예능 프로그램 등을 방송하는 채널입니다. 한국과 같은 시간에 방송되는 다양한 프로그램을 전 세계에서 즐길 수 있습니다. ▶ 편성표 : https://kbswor...</desc>
-    <icon src="https://i.ytimg.com/vi/OxQQsIvJTTU/maxresdefault.jpg?v=64925653"/>
-  </programme>
-  <programme channel="KBSKorea.yt" start="20260104060000 +0000" stop="20260104090000 +0000">
-    <title lang="en">KBS KOREA On-Air</title>
-    <desc lang="en">[전 세계 한국인의 중심 채널 KBS KOREA]KBS KOREA는 해외동포를 위해 KBS 뉴스, 시사, 교양, 드라마, 예능 프로그램 등을 방송하는 채널입니다. 한국과 같은 시간에 방송되는 다양한 프로그램을 전 세계에서 즐길 수 있습니다. ▶ 편성표 : https://kbswor...</desc>
-    <icon src="https://i.ytimg.com/vi/OxQQsIvJTTU/maxresdefault.jpg?v=64925653"/>
-  </programme>
-  <programme channel="KBSKorea.yt" start="20260104090000 +0000" stop="20260104120000 +0000">
-    <title lang="en">KBS KOREA On-Air</title>
-    <desc lang="en">[전 세계 한국인의 중심 채널 KBS KOREA]KBS KOREA는 해외동포를 위해 KBS 뉴스, 시사, 교양, 드라마, 예능 프로그램 등을 방송하는 채널입니다. 한국과 같은 시간에 방송되는 다양한 프로그램을 전 세계에서 즐길 수 있습니다. ▶ 편성표 : https://kbswor...</desc>
-    <icon src="https://i.ytimg.com/vi/OxQQsIvJTTU/maxresdefault.jpg?v=64925653"/>
-  </programme>
-  <programme channel="KBSKorea.yt" start="20260104120000 +0000" stop="20260104150000 +0000">
-    <title lang="en">KBS KOREA On-Air</title>
-    <desc lang="en">[전 세계 한국인의 중심 채널 KBS KOREA]KBS KOREA는 해외동포를 위해 KBS 뉴스, 시사, 교양, 드라마, 예능 프로그램 등을 방송하는 채널입니다. 한국과 같은 시간에 방송되는 다양한 프로그램을 전 세계에서 즐길 수 있습니다. ▶ 편성표 : https://kbswor...</desc>
-    <icon src="https://i.ytimg.com/vi/OxQQsIvJTTU/maxresdefault.jpg?v=64925653"/>
-  </programme>
-  <channel id="KBSWorldRadio.yt">
-    <display-name lang="en">KBS World Radio</display-name>
-  </channel>
-  <programme channel="KBSWorldRadio.yt" start="20260103150000 +0000" stop="20260103180000 +0000">
-    <title lang="en">[ON-AIR] KBS WORLD Radio English Service</title>
-    <desc lang="en">▶Enjoy your favorite programs on KBS WORLD Radio English Service 24/7 on Youtube. For the schedule, click  http://world.kbs.co.kr/service/about_kong.htm?lang...</desc>
-    <icon src="https://i.ytimg.com/vi/EIfaYst9ZsY/maxresdefault.jpg?v=68c3c69a"/>
-  </programme>
-  <programme channel="KBSWorldRadio.yt" start="20260103180000 +0000" stop="20260103210000 +0000">
-    <title lang="en">[ON-AIR] KBS WORLD Radio English Service</title>
-    <desc lang="en">▶Enjoy your favorite programs on KBS WORLD Radio English Service 24/7 on Youtube. For the schedule, click  http://world.kbs.co.kr/service/about_kong.htm?lang...</desc>
-    <icon src="https://i.ytimg.com/vi/EIfaYst9ZsY/maxresdefault.jpg?v=68c3c69a"/>
-  </programme>
-  <programme channel="KBSWorldRadio.yt" start="20260103210000 +0000" stop="20260104000000 +0000">
-    <title lang="en">[ON-AIR] KBS WORLD Radio English Service</title>
-    <desc lang="en">▶Enjoy your favorite programs on KBS WORLD Radio English Service 24/7 on Youtube. For the schedule, click  http://world.kbs.co.kr/service/about_kong.htm?lang...</desc>
-    <icon src="https://i.ytimg.com/vi/EIfaYst9ZsY/maxresdefault.jpg?v=68c3c69a"/>
-  </programme>
-  <programme channel="KBSWorldRadio.yt" start="20260104000000 +0000" stop="20260104030000 +0000">
-    <title lang="en">[ON-AIR] KBS WORLD Radio English Service</title>
-    <desc lang="en">▶Enjoy your favorite programs on KBS WORLD Radio English Service 24/7 on Youtube. For the schedule, click  http://world.kbs.co.kr/service/about_kong.htm?lang...</desc>
-    <icon src="https://i.ytimg.com/vi/EIfaYst9ZsY/maxresdefault.jpg?v=68c3c69a"/>
-  </programme>
-  <programme channel="KBSWorldRadio.yt" start="20260104030000 +0000" stop="20260104060000 +0000">
-    <title lang="en">[ON-AIR] KBS WORLD Radio English Service</title>
-    <desc lang="en">▶Enjoy your favorite programs on KBS WORLD Radio English Service 24/7 on Youtube. For the schedule, click  http://world.kbs.co.kr/service/about_kong.htm?lang...</desc>
-    <icon src="https://i.ytimg.com/vi/EIfaYst9ZsY/maxresdefault.jpg?v=68c3c69a"/>
-  </programme>
-  <programme channel="KBSWorldRadio.yt" start="20260104060000 +0000" stop="20260104090000 +0000">
-    <title lang="en">[ON-AIR] KBS WORLD Radio English Service</title>
-    <desc lang="en">▶Enjoy your favorite programs on KBS WORLD Radio English Service 24/7 on Youtube. For the schedule, click  http://world.kbs.co.kr/service/about_kong.htm?lang...</desc>
-    <icon src="https://i.ytimg.com/vi/EIfaYst9ZsY/maxresdefault.jpg?v=68c3c69a"/>
-  </programme>
-  <programme channel="KBSWorldRadio.yt" start="20260104090000 +0000" stop="20260104120000 +0000">
-    <title lang="en">[ON-AIR] KBS WORLD Radio English Service</title>
-    <desc lang="en">▶Enjoy your favorite programs on KBS WORLD Radio English Service 24/7 on Youtube. For the schedule, click  http://world.kbs.co.kr/service/about_kong.htm?lang...</desc>
-    <icon src="https://i.ytimg.com/vi/EIfaYst9ZsY/maxresdefault.jpg?v=68c3c69a"/>
-  </programme>
-  <programme channel="KBSWorldRadio.yt" start="20260104120000 +0000" stop="20260104150000 +0000">
-    <title lang="en">[ON-AIR] KBS WORLD Radio English Service</title>
-    <desc lang="en">▶Enjoy your favorite programs on KBS WORLD Radio English Service 24/7 on Youtube. For the schedule, click  http://world.kbs.co.kr/service/about_kong.htm?lang...</desc>
-    <icon src="https://i.ytimg.com/vi/EIfaYst9ZsY/maxresdefault.jpg?v=68c3c69a"/>
-  </programme>
-  <channel id="DatawaveFM.yt">
-    <display-name lang="en">Datawave FM</display-name>
-  </channel>
-  <programme channel="DatawaveFM.yt" start="20260103150000 +0000" stop="20260103180000 +0000">
-    <title lang="en">Datawave FM - midfi synthwave radio for retro computer funk</title>
-    <desc lang="en">24/7 instrumental midfi computer funk. Pitch-drifting synthwave from a retro-futuristic information age. Join the synthwave community https://discord.gg/synt...</desc>
-    <icon src="https://i.ytimg.com/vi/Y9q6RYg2Pdg/maxresdefault.jpg?v=624a1ffc"/>
-  </programme>
-  <programme channel="DatawaveFM.yt" start="20260103180000 +0000" stop="20260103210000 +0000">
-    <title lang="en">Datawave FM - midfi synthwave radio for retro computer funk</title>
-    <desc lang="en">24/7 instrumental midfi computer funk. Pitch-drifting synthwave from a retro-futuristic information age. Join the synthwave community https://discord.gg/synt...</desc>
-    <icon src="https://i.ytimg.com/vi/Y9q6RYg2Pdg/maxresdefault.jpg?v=624a1ffc"/>
-  </programme>
-  <programme channel="DatawaveFM.yt" start="20260103210000 +0000" stop="20260104000000 +0000">
-    <title lang="en">Datawave FM - midfi synthwave radio for retro computer funk</title>
-    <desc lang="en">24/7 instrumental midfi computer funk. Pitch-drifting synthwave from a retro-futuristic information age. Join the synthwave community https://discord.gg/synt...</desc>
-    <icon src="https://i.ytimg.com/vi/Y9q6RYg2Pdg/maxresdefault.jpg?v=624a1ffc"/>
-  </programme>
-  <programme channel="DatawaveFM.yt" start="20260104000000 +0000" stop="20260104030000 +0000">
-    <title lang="en">Datawave FM - midfi synthwave radio for retro computer funk</title>
-    <desc lang="en">24/7 instrumental midfi computer funk. Pitch-drifting synthwave from a retro-futuristic information age. Join the synthwave community https://discord.gg/synt...</desc>
-    <icon src="https://i.ytimg.com/vi/Y9q6RYg2Pdg/maxresdefault.jpg?v=624a1ffc"/>
-  </programme>
-  <programme channel="DatawaveFM.yt" start="20260104030000 +0000" stop="20260104060000 +0000">
-    <title lang="en">Datawave FM - midfi synthwave radio for retro computer funk</title>
-    <desc lang="en">24/7 instrumental midfi computer funk. Pitch-drifting synthwave from a retro-futuristic information age. Join the synthwave community https://discord.gg/synt...</desc>
-    <icon src="https://i.ytimg.com/vi/Y9q6RYg2Pdg/maxresdefault.jpg?v=624a1ffc"/>
-  </programme>
-  <programme channel="DatawaveFM.yt" start="20260104060000 +0000" stop="20260104090000 +0000">
-    <title lang="en">Datawave FM - midfi synthwave radio for retro computer funk</title>
-    <desc lang="en">24/7 instrumental midfi computer funk. Pitch-drifting synthwave from a retro-futuristic information age. Join the synthwave community https://discord.gg/synt...</desc>
-    <icon src="https://i.ytimg.com/vi/Y9q6RYg2Pdg/maxresdefault.jpg?v=624a1ffc"/>
-  </programme>
-  <programme channel="DatawaveFM.yt" start="20260104090000 +0000" stop="20260104120000 +0000">
-    <title lang="en">Datawave FM - midfi synthwave radio for retro computer funk</title>
-    <desc lang="en">24/7 instrumental midfi computer funk. Pitch-drifting synthwave from a retro-futuristic information age. Join the synthwave community https://discord.gg/synt...</desc>
-    <icon src="https://i.ytimg.com/vi/Y9q6RYg2Pdg/maxresdefault.jpg?v=624a1ffc"/>
-  </programme>
-  <programme channel="DatawaveFM.yt" start="20260104120000 +0000" stop="20260104150000 +0000">
-    <title lang="en">Datawave FM - midfi synthwave radio for retro computer funk</title>
-    <desc lang="en">24/7 instrumental midfi computer funk. Pitch-drifting synthwave from a retro-futuristic information age. Join the synthwave community https://discord.gg/synt...</desc>
-    <icon src="https://i.ytimg.com/vi/Y9q6RYg2Pdg/maxresdefault.jpg?v=624a1ffc"/>
-  </programme>
   <channel id="Happy.Channel./.Dazzle.tt">
     <display-name lang="en">Happy Channel / Happy Dazzle</display-name>
   </channel>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260103150000 +0000" stop="20260103180000 +0000">
-    <title lang="en">Twitch</title>
-    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
-    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
-  </programme>
   <programme channel="Happy.Channel./.Dazzle.tt" start="20260103180000 +0000" stop="20260103210000 +0000">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
@@ -171,14 +37,14 @@
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <channel id="Happy.Channel.247.tt">
-    <display-name lang="en">Happy Channel 24/7</display-name>
-  </channel>
-  <programme channel="Happy.Channel.247.tt" start="20260103150000 +0000" stop="20260103180000 +0000">
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260104150000 +0000" stop="20260104180000 +0000">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
+  <channel id="Happy.Channel.247.tt">
+    <display-name lang="en">Happy Channel 24/7</display-name>
+  </channel>
   <programme channel="Happy.Channel.247.tt" start="20260103180000 +0000" stop="20260103210000 +0000">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
@@ -210,6 +76,11 @@
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
   <programme channel="Happy.Channel.247.tt" start="20260104120000 +0000" stop="20260104150000 +0000">
+    <title lang="en">Twitch</title>
+    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
+    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+  </programme>
+  <programme channel="Happy.Channel.247.tt" start="20260104150000 +0000" stop="20260104180000 +0000">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
