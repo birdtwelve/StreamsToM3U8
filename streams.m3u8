@@ -61,7 +61,7 @@ https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="JazzRadio.yt" tvg-name="Relaxing Jazz Piano Radio" group-title="Music", Relaxing Jazz Piano Radio
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1768274864/ei/UGdlacLQMJ2zlu8PivOamQ8/ip/64.236.200.117/id/Dx5qFachd3A.430/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_pgTqlb6S9mm0s7iqcnndN4X9MF5lMzGYJAToGVM-e3mRjjBpsq_-Kk3PYNgwoBJoTgrIbcMSGH/spc/q5xjPHN4nD-i5K9jES6r3mBdD8WCSFy7hi4ALLQW6mvcmKicU5iyjUMzVxaIyCGbZvM/vprv/1/go/1/ns/k6_fB9mKEeiG1OoE_TZI40QR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/n/VorSLH-9e1ZZyfcfdlg/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgLV2_mMLwqYBnTJNV3lVTKzNaXtuc5tfeXXH2mnp7oaICIF1OG6iwJ1SV--ahArq1xZu7xGVjYB6HUi8YpIXlOV3L/file/index.m3u8
 
 #EXTINF:-1 tvg-id="EpidemicPop.yt" tvg-name="Epidemic Pop" group-title="Music", Epidemic Pop
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
