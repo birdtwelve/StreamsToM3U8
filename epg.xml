@@ -2,42 +2,42 @@
   <channel id="Happy.Channel./.Dazzle.tt">
     <display-name lang="en">Happy Channel / Happy Dazzle</display-name>
   </channel>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260120210000 +0000" stop="20260121000000 +0000">
-    <title lang="en">Twitch</title>
-    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
-    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
-  </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260121000000 +0000" stop="20260121030000 +0000">
-    <title lang="en">Twitch</title>
-    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
-    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
-  </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260121030000 +0000" stop="20260121060000 +0000">
-    <title lang="en">Twitch</title>
-    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
-    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
-  </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260121060000 +0000" stop="20260121090000 +0000">
-    <title lang="en">Twitch</title>
-    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
-    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
-  </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260121090000 +0000" stop="20260121120000 +0000">
-    <title lang="en">Twitch</title>
-    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
-    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
-  </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260121120000 +0000" stop="20260121150000 +0000">
-    <title lang="en">Twitch</title>
-    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
-    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
-  </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260121150000 +0000" stop="20260121180000 +0000">
-    <title lang="en">Twitch</title>
-    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
-    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
-  </programme>
   <programme channel="Happy.Channel./.Dazzle.tt" start="20260121180000 +0000" stop="20260121210000 +0000">
+    <title lang="en">Twitch</title>
+    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
+    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+  </programme>
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260121210000 +0000" stop="20260122000000 +0000">
+    <title lang="en">Twitch</title>
+    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
+    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+  </programme>
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260122000000 +0000" stop="20260122030000 +0000">
+    <title lang="en">Twitch</title>
+    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
+    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+  </programme>
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260122030000 +0000" stop="20260122060000 +0000">
+    <title lang="en">Twitch</title>
+    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
+    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+  </programme>
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260122060000 +0000" stop="20260122090000 +0000">
+    <title lang="en">Twitch</title>
+    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
+    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+  </programme>
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260122090000 +0000" stop="20260122120000 +0000">
+    <title lang="en">Twitch</title>
+    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
+    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+  </programme>
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260122120000 +0000" stop="20260122150000 +0000">
+    <title lang="en">Twitch</title>
+    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
+    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+  </programme>
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260122150000 +0000" stop="20260122180000 +0000">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
@@ -45,42 +45,42 @@
   <channel id="Happy.Channel.247.tt">
     <display-name lang="en">Happy Channel 24/7</display-name>
   </channel>
-  <programme channel="Happy.Channel.247.tt" start="20260120210000 +0000" stop="20260121000000 +0000">
-    <title lang="en">Twitch</title>
-    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
-    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
-  </programme>
-  <programme channel="Happy.Channel.247.tt" start="20260121000000 +0000" stop="20260121030000 +0000">
-    <title lang="en">Twitch</title>
-    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
-    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
-  </programme>
-  <programme channel="Happy.Channel.247.tt" start="20260121030000 +0000" stop="20260121060000 +0000">
-    <title lang="en">Twitch</title>
-    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
-    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
-  </programme>
-  <programme channel="Happy.Channel.247.tt" start="20260121060000 +0000" stop="20260121090000 +0000">
-    <title lang="en">Twitch</title>
-    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
-    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
-  </programme>
-  <programme channel="Happy.Channel.247.tt" start="20260121090000 +0000" stop="20260121120000 +0000">
-    <title lang="en">Twitch</title>
-    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
-    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
-  </programme>
-  <programme channel="Happy.Channel.247.tt" start="20260121120000 +0000" stop="20260121150000 +0000">
-    <title lang="en">Twitch</title>
-    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
-    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
-  </programme>
-  <programme channel="Happy.Channel.247.tt" start="20260121150000 +0000" stop="20260121180000 +0000">
-    <title lang="en">Twitch</title>
-    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
-    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
-  </programme>
   <programme channel="Happy.Channel.247.tt" start="20260121180000 +0000" stop="20260121210000 +0000">
+    <title lang="en">Twitch</title>
+    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
+    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+  </programme>
+  <programme channel="Happy.Channel.247.tt" start="20260121210000 +0000" stop="20260122000000 +0000">
+    <title lang="en">Twitch</title>
+    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
+    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+  </programme>
+  <programme channel="Happy.Channel.247.tt" start="20260122000000 +0000" stop="20260122030000 +0000">
+    <title lang="en">Twitch</title>
+    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
+    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+  </programme>
+  <programme channel="Happy.Channel.247.tt" start="20260122030000 +0000" stop="20260122060000 +0000">
+    <title lang="en">Twitch</title>
+    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
+    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+  </programme>
+  <programme channel="Happy.Channel.247.tt" start="20260122060000 +0000" stop="20260122090000 +0000">
+    <title lang="en">Twitch</title>
+    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
+    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+  </programme>
+  <programme channel="Happy.Channel.247.tt" start="20260122090000 +0000" stop="20260122120000 +0000">
+    <title lang="en">Twitch</title>
+    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
+    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+  </programme>
+  <programme channel="Happy.Channel.247.tt" start="20260122120000 +0000" stop="20260122150000 +0000">
+    <title lang="en">Twitch</title>
+    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
+    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+  </programme>
+  <programme channel="Happy.Channel.247.tt" start="20260122150000 +0000" stop="20260122180000 +0000">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
