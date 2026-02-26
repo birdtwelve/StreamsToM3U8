@@ -1,43 +1,86 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="DatawaveFM.yt">
+    <display-name lang="en">Datawave FM</display-name>
+  </channel>
+  <programme channel="DatawaveFM.yt" start="20260226190000 +0000" stop="20260226220000 +0000">
+    <title lang="en">Datawave FM - midfi synthwave radio for retro computer funk</title>
+    <desc lang="en">24/7 instrumental midfi computer funk. Pitch-drifting synthwave from a retro-futuristic information age. Join the synthwave community https://discord.gg/synt...</desc>
+    <icon src="https://i.ytimg.com/vi/Y9q6RYg2Pdg/maxresdefault.jpg?v=624a1ffc"/>
+  </programme>
+  <programme channel="DatawaveFM.yt" start="20260226220000 +0000" stop="20260227010000 +0000">
+    <title lang="en">Datawave FM - midfi synthwave radio for retro computer funk</title>
+    <desc lang="en">24/7 instrumental midfi computer funk. Pitch-drifting synthwave from a retro-futuristic information age. Join the synthwave community https://discord.gg/synt...</desc>
+    <icon src="https://i.ytimg.com/vi/Y9q6RYg2Pdg/maxresdefault.jpg?v=624a1ffc"/>
+  </programme>
+  <programme channel="DatawaveFM.yt" start="20260227010000 +0000" stop="20260227040000 +0000">
+    <title lang="en">Datawave FM - midfi synthwave radio for retro computer funk</title>
+    <desc lang="en">24/7 instrumental midfi computer funk. Pitch-drifting synthwave from a retro-futuristic information age. Join the synthwave community https://discord.gg/synt...</desc>
+    <icon src="https://i.ytimg.com/vi/Y9q6RYg2Pdg/maxresdefault.jpg?v=624a1ffc"/>
+  </programme>
+  <programme channel="DatawaveFM.yt" start="20260227040000 +0000" stop="20260227070000 +0000">
+    <title lang="en">Datawave FM - midfi synthwave radio for retro computer funk</title>
+    <desc lang="en">24/7 instrumental midfi computer funk. Pitch-drifting synthwave from a retro-futuristic information age. Join the synthwave community https://discord.gg/synt...</desc>
+    <icon src="https://i.ytimg.com/vi/Y9q6RYg2Pdg/maxresdefault.jpg?v=624a1ffc"/>
+  </programme>
+  <programme channel="DatawaveFM.yt" start="20260227070000 +0000" stop="20260227100000 +0000">
+    <title lang="en">Datawave FM - midfi synthwave radio for retro computer funk</title>
+    <desc lang="en">24/7 instrumental midfi computer funk. Pitch-drifting synthwave from a retro-futuristic information age. Join the synthwave community https://discord.gg/synt...</desc>
+    <icon src="https://i.ytimg.com/vi/Y9q6RYg2Pdg/maxresdefault.jpg?v=624a1ffc"/>
+  </programme>
+  <programme channel="DatawaveFM.yt" start="20260227100000 +0000" stop="20260227130000 +0000">
+    <title lang="en">Datawave FM - midfi synthwave radio for retro computer funk</title>
+    <desc lang="en">24/7 instrumental midfi computer funk. Pitch-drifting synthwave from a retro-futuristic information age. Join the synthwave community https://discord.gg/synt...</desc>
+    <icon src="https://i.ytimg.com/vi/Y9q6RYg2Pdg/maxresdefault.jpg?v=624a1ffc"/>
+  </programme>
+  <programme channel="DatawaveFM.yt" start="20260227130000 +0000" stop="20260227160000 +0000">
+    <title lang="en">Datawave FM - midfi synthwave radio for retro computer funk</title>
+    <desc lang="en">24/7 instrumental midfi computer funk. Pitch-drifting synthwave from a retro-futuristic information age. Join the synthwave community https://discord.gg/synt...</desc>
+    <icon src="https://i.ytimg.com/vi/Y9q6RYg2Pdg/maxresdefault.jpg?v=624a1ffc"/>
+  </programme>
+  <programme channel="DatawaveFM.yt" start="20260227160000 +0000" stop="20260227190000 +0000">
+    <title lang="en">Datawave FM - midfi synthwave radio for retro computer funk</title>
+    <desc lang="en">24/7 instrumental midfi computer funk. Pitch-drifting synthwave from a retro-futuristic information age. Join the synthwave community https://discord.gg/synt...</desc>
+    <icon src="https://i.ytimg.com/vi/Y9q6RYg2Pdg/maxresdefault.jpg?v=624a1ffc"/>
+  </programme>
   <channel id="Happy.Channel./.Dazzle.tt">
     <display-name lang="en">Happy Channel / Happy Dazzle</display-name>
   </channel>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260226150000 +0000" stop="20260226180000 +0000">
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260226190000 +0000" stop="20260226220000 +0000">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260226180000 +0000" stop="20260226210000 +0000">
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260226220000 +0000" stop="20260227010000 +0000">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260226210000 +0000" stop="20260227000000 +0000">
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260227010000 +0000" stop="20260227040000 +0000">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260227000000 +0000" stop="20260227030000 +0000">
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260227040000 +0000" stop="20260227070000 +0000">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260227030000 +0000" stop="20260227060000 +0000">
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260227070000 +0000" stop="20260227100000 +0000">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260227060000 +0000" stop="20260227090000 +0000">
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260227100000 +0000" stop="20260227130000 +0000">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260227090000 +0000" stop="20260227120000 +0000">
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260227130000 +0000" stop="20260227160000 +0000">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260227120000 +0000" stop="20260227150000 +0000">
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260227160000 +0000" stop="20260227190000 +0000">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
@@ -45,42 +88,42 @@
   <channel id="Happy.Channel.247.tt">
     <display-name lang="en">Happy Channel 24/7</display-name>
   </channel>
-  <programme channel="Happy.Channel.247.tt" start="20260226150000 +0000" stop="20260226180000 +0000">
+  <programme channel="Happy.Channel.247.tt" start="20260226190000 +0000" stop="20260226220000 +0000">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel.247.tt" start="20260226180000 +0000" stop="20260226210000 +0000">
+  <programme channel="Happy.Channel.247.tt" start="20260226220000 +0000" stop="20260227010000 +0000">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel.247.tt" start="20260226210000 +0000" stop="20260227000000 +0000">
+  <programme channel="Happy.Channel.247.tt" start="20260227010000 +0000" stop="20260227040000 +0000">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel.247.tt" start="20260227000000 +0000" stop="20260227030000 +0000">
+  <programme channel="Happy.Channel.247.tt" start="20260227040000 +0000" stop="20260227070000 +0000">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel.247.tt" start="20260227030000 +0000" stop="20260227060000 +0000">
+  <programme channel="Happy.Channel.247.tt" start="20260227070000 +0000" stop="20260227100000 +0000">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel.247.tt" start="20260227060000 +0000" stop="20260227090000 +0000">
+  <programme channel="Happy.Channel.247.tt" start="20260227100000 +0000" stop="20260227130000 +0000">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel.247.tt" start="20260227090000 +0000" stop="20260227120000 +0000">
+  <programme channel="Happy.Channel.247.tt" start="20260227130000 +0000" stop="20260227160000 +0000">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel.247.tt" start="20260227120000 +0000" stop="20260227150000 +0000">
+  <programme channel="Happy.Channel.247.tt" start="20260227160000 +0000" stop="20260227190000 +0000">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
