@@ -1,12 +1,50 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="TokyoCafe.yt">
+    <display-name lang="en">TOKYO Cafe</display-name>
+  </channel>
+  <programme channel="TokyoCafe.yt" start="20260309160000 +0000" stop="20260309190000 +0000">
+    <title lang="en">TOKYO Cafe: Beautiful Relaxing Jazz Piano Music for Stress Relief - Night Coffee Shop Ambience</title>
+    <desc lang="en">💿 Listen Everywherehttps://bgmc.lnk.to/g1qEnopG_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmc...</desc>
+    <icon src="https://i.ytimg.com/vi/6uddGul0oAc/maxresdefault.jpg?v=604f236b"/>
+  </programme>
+  <programme channel="TokyoCafe.yt" start="20260309190000 +0000" stop="20260309220000 +0000">
+    <title lang="en">TOKYO Cafe: Beautiful Relaxing Jazz Piano Music for Stress Relief - Night Coffee Shop Ambience</title>
+    <desc lang="en">💿 Listen Everywherehttps://bgmc.lnk.to/g1qEnopG_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmc...</desc>
+    <icon src="https://i.ytimg.com/vi/6uddGul0oAc/maxresdefault.jpg?v=604f236b"/>
+  </programme>
+  <programme channel="TokyoCafe.yt" start="20260309220000 +0000" stop="20260310010000 +0000">
+    <title lang="en">TOKYO Cafe: Beautiful Relaxing Jazz Piano Music for Stress Relief - Night Coffee Shop Ambience</title>
+    <desc lang="en">💿 Listen Everywherehttps://bgmc.lnk.to/g1qEnopG_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmc...</desc>
+    <icon src="https://i.ytimg.com/vi/6uddGul0oAc/maxresdefault.jpg?v=604f236b"/>
+  </programme>
+  <programme channel="TokyoCafe.yt" start="20260310010000 +0000" stop="20260310040000 +0000">
+    <title lang="en">TOKYO Cafe: Beautiful Relaxing Jazz Piano Music for Stress Relief - Night Coffee Shop Ambience</title>
+    <desc lang="en">💿 Listen Everywherehttps://bgmc.lnk.to/g1qEnopG_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmc...</desc>
+    <icon src="https://i.ytimg.com/vi/6uddGul0oAc/maxresdefault.jpg?v=604f236b"/>
+  </programme>
+  <programme channel="TokyoCafe.yt" start="20260310040000 +0000" stop="20260310070000 +0000">
+    <title lang="en">TOKYO Cafe: Beautiful Relaxing Jazz Piano Music for Stress Relief - Night Coffee Shop Ambience</title>
+    <desc lang="en">💿 Listen Everywherehttps://bgmc.lnk.to/g1qEnopG_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmc...</desc>
+    <icon src="https://i.ytimg.com/vi/6uddGul0oAc/maxresdefault.jpg?v=604f236b"/>
+  </programme>
+  <programme channel="TokyoCafe.yt" start="20260310070000 +0000" stop="20260310100000 +0000">
+    <title lang="en">TOKYO Cafe: Beautiful Relaxing Jazz Piano Music for Stress Relief - Night Coffee Shop Ambience</title>
+    <desc lang="en">💿 Listen Everywherehttps://bgmc.lnk.to/g1qEnopG_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmc...</desc>
+    <icon src="https://i.ytimg.com/vi/6uddGul0oAc/maxresdefault.jpg?v=604f236b"/>
+  </programme>
+  <programme channel="TokyoCafe.yt" start="20260310100000 +0000" stop="20260310130000 +0000">
+    <title lang="en">TOKYO Cafe: Beautiful Relaxing Jazz Piano Music for Stress Relief - Night Coffee Shop Ambience</title>
+    <desc lang="en">💿 Listen Everywherehttps://bgmc.lnk.to/g1qEnopG_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmc...</desc>
+    <icon src="https://i.ytimg.com/vi/6uddGul0oAc/maxresdefault.jpg?v=604f236b"/>
+  </programme>
+  <programme channel="TokyoCafe.yt" start="20260310130000 +0000" stop="20260310160000 +0000">
+    <title lang="en">TOKYO Cafe: Beautiful Relaxing Jazz Piano Music for Stress Relief - Night Coffee Shop Ambience</title>
+    <desc lang="en">💿 Listen Everywherehttps://bgmc.lnk.to/g1qEnopG_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmc...</desc>
+    <icon src="https://i.ytimg.com/vi/6uddGul0oAc/maxresdefault.jpg?v=604f236b"/>
+  </programme>
   <channel id="Happy.Channel./.Dazzle.tt">
     <display-name lang="en">Happy Channel / Happy Dazzle</display-name>
   </channel>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260309130000 +0000" stop="20260309160000 +0000">
-    <title lang="en">Twitch</title>
-    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
-    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
-  </programme>
   <programme channel="Happy.Channel./.Dazzle.tt" start="20260309160000 +0000" stop="20260309190000 +0000">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
@@ -42,14 +80,14 @@
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <channel id="Happy.Channel.247.tt">
-    <display-name lang="en">Happy Channel 24/7</display-name>
-  </channel>
-  <programme channel="Happy.Channel.247.tt" start="20260309130000 +0000" stop="20260309160000 +0000">
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260310130000 +0000" stop="20260310160000 +0000">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
+  <channel id="Happy.Channel.247.tt">
+    <display-name lang="en">Happy Channel 24/7</display-name>
+  </channel>
   <programme channel="Happy.Channel.247.tt" start="20260309160000 +0000" stop="20260309190000 +0000">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
@@ -81,6 +119,11 @@
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
   <programme channel="Happy.Channel.247.tt" start="20260310100000 +0000" stop="20260310130000 +0000">
+    <title lang="en">Twitch</title>
+    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
+    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+  </programme>
+  <programme channel="Happy.Channel.247.tt" start="20260310130000 +0000" stop="20260310160000 +0000">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
