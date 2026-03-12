@@ -1,12 +1,50 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="RainyJazz.yt">
+    <display-name lang="en">Rainy Jazz: Relaxing Jazz &amp; Bossa Nova Music Radio</display-name>
+  </channel>
+  <programme channel="RainyJazz.yt" start="20260312160000 +0000" stop="20260312190000 +0000">
+    <title lang="en">Rainy Jazz: Relaxing Jazz &amp; Bossa Nova Music Radio - 24/7 Chill Out Piano &amp; Guitar Music</title>
+    <desc lang="en">💿 Listen Everywherehttps://lnk.to/ZVM2fj58_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmchanne...</desc>
+    <icon src="https://i.ytimg.com/vi/DSGyEsJ17cI/maxresdefault.jpg?v=5e796b8f"/>
+  </programme>
+  <programme channel="RainyJazz.yt" start="20260312190000 +0000" stop="20260312220000 +0000">
+    <title lang="en">Rainy Jazz: Relaxing Jazz &amp; Bossa Nova Music Radio - 24/7 Chill Out Piano &amp; Guitar Music</title>
+    <desc lang="en">💿 Listen Everywherehttps://lnk.to/ZVM2fj58_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmchanne...</desc>
+    <icon src="https://i.ytimg.com/vi/DSGyEsJ17cI/maxresdefault.jpg?v=5e796b8f"/>
+  </programme>
+  <programme channel="RainyJazz.yt" start="20260312220000 +0000" stop="20260313010000 +0000">
+    <title lang="en">Rainy Jazz: Relaxing Jazz &amp; Bossa Nova Music Radio - 24/7 Chill Out Piano &amp; Guitar Music</title>
+    <desc lang="en">💿 Listen Everywherehttps://lnk.to/ZVM2fj58_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmchanne...</desc>
+    <icon src="https://i.ytimg.com/vi/DSGyEsJ17cI/maxresdefault.jpg?v=5e796b8f"/>
+  </programme>
+  <programme channel="RainyJazz.yt" start="20260313010000 +0000" stop="20260313040000 +0000">
+    <title lang="en">Rainy Jazz: Relaxing Jazz &amp; Bossa Nova Music Radio - 24/7 Chill Out Piano &amp; Guitar Music</title>
+    <desc lang="en">💿 Listen Everywherehttps://lnk.to/ZVM2fj58_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmchanne...</desc>
+    <icon src="https://i.ytimg.com/vi/DSGyEsJ17cI/maxresdefault.jpg?v=5e796b8f"/>
+  </programme>
+  <programme channel="RainyJazz.yt" start="20260313040000 +0000" stop="20260313070000 +0000">
+    <title lang="en">Rainy Jazz: Relaxing Jazz &amp; Bossa Nova Music Radio - 24/7 Chill Out Piano &amp; Guitar Music</title>
+    <desc lang="en">💿 Listen Everywherehttps://lnk.to/ZVM2fj58_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmchanne...</desc>
+    <icon src="https://i.ytimg.com/vi/DSGyEsJ17cI/maxresdefault.jpg?v=5e796b8f"/>
+  </programme>
+  <programme channel="RainyJazz.yt" start="20260313070000 +0000" stop="20260313100000 +0000">
+    <title lang="en">Rainy Jazz: Relaxing Jazz &amp; Bossa Nova Music Radio - 24/7 Chill Out Piano &amp; Guitar Music</title>
+    <desc lang="en">💿 Listen Everywherehttps://lnk.to/ZVM2fj58_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmchanne...</desc>
+    <icon src="https://i.ytimg.com/vi/DSGyEsJ17cI/maxresdefault.jpg?v=5e796b8f"/>
+  </programme>
+  <programme channel="RainyJazz.yt" start="20260313100000 +0000" stop="20260313130000 +0000">
+    <title lang="en">Rainy Jazz: Relaxing Jazz &amp; Bossa Nova Music Radio - 24/7 Chill Out Piano &amp; Guitar Music</title>
+    <desc lang="en">💿 Listen Everywherehttps://lnk.to/ZVM2fj58_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmchanne...</desc>
+    <icon src="https://i.ytimg.com/vi/DSGyEsJ17cI/maxresdefault.jpg?v=5e796b8f"/>
+  </programme>
+  <programme channel="RainyJazz.yt" start="20260313130000 +0000" stop="20260313160000 +0000">
+    <title lang="en">Rainy Jazz: Relaxing Jazz &amp; Bossa Nova Music Radio - 24/7 Chill Out Piano &amp; Guitar Music</title>
+    <desc lang="en">💿 Listen Everywherehttps://lnk.to/ZVM2fj58_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmchanne...</desc>
+    <icon src="https://i.ytimg.com/vi/DSGyEsJ17cI/maxresdefault.jpg?v=5e796b8f"/>
+  </programme>
   <channel id="Happy.Channel./.Dazzle.tt">
     <display-name lang="en">Happy Channel / Happy Dazzle</display-name>
   </channel>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260312130000 +0000" stop="20260312160000 +0000">
-    <title lang="en">Twitch</title>
-    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
-    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
-  </programme>
   <programme channel="Happy.Channel./.Dazzle.tt" start="20260312160000 +0000" stop="20260312190000 +0000">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
@@ -42,14 +80,14 @@
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <channel id="Happy.Channel.247.tt">
-    <display-name lang="en">Happy Channel 24/7</display-name>
-  </channel>
-  <programme channel="Happy.Channel.247.tt" start="20260312130000 +0000" stop="20260312160000 +0000">
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260313130000 +0000" stop="20260313160000 +0000">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
+  <channel id="Happy.Channel.247.tt">
+    <display-name lang="en">Happy Channel 24/7</display-name>
+  </channel>
   <programme channel="Happy.Channel.247.tt" start="20260312160000 +0000" stop="20260312190000 +0000">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
@@ -81,6 +119,11 @@
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
   <programme channel="Happy.Channel.247.tt" start="20260313100000 +0000" stop="20260313130000 +0000">
+    <title lang="en">Twitch</title>
+    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
+    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+  </programme>
+  <programme channel="Happy.Channel.247.tt" start="20260313130000 +0000" stop="20260313160000 +0000">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
