@@ -1,86 +1,43 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="EuronewsEN.yt">
-    <display-name lang="en">Euronews</display-name>
-  </channel>
-  <programme channel="EuronewsEN.yt" start="20260407190000 +0100" stop="20260407220000 +0100">
-    <title lang="en">Euronews English Live</title>
-    <desc lang="en">Watch the latest breaking news available 24/7 on Euronews.▶︎ Subscribe to our channel to follow the latest news: https://www.youtube.com/c/euronews?sub_confi...</desc>
-    <icon src="https://i.ytimg.com/vi/pykpO5kQJ98/maxresdefault.jpg?v=63eb92d4"/>
-  </programme>
-  <programme channel="EuronewsEN.yt" start="20260407220000 +0100" stop="20260408010000 +0100">
-    <title lang="en">Euronews English Live</title>
-    <desc lang="en">Watch the latest breaking news available 24/7 on Euronews.▶︎ Subscribe to our channel to follow the latest news: https://www.youtube.com/c/euronews?sub_confi...</desc>
-    <icon src="https://i.ytimg.com/vi/pykpO5kQJ98/maxresdefault.jpg?v=63eb92d4"/>
-  </programme>
-  <programme channel="EuronewsEN.yt" start="20260408010000 +0100" stop="20260408040000 +0100">
-    <title lang="en">Euronews English Live</title>
-    <desc lang="en">Watch the latest breaking news available 24/7 on Euronews.▶︎ Subscribe to our channel to follow the latest news: https://www.youtube.com/c/euronews?sub_confi...</desc>
-    <icon src="https://i.ytimg.com/vi/pykpO5kQJ98/maxresdefault.jpg?v=63eb92d4"/>
-  </programme>
-  <programme channel="EuronewsEN.yt" start="20260408040000 +0100" stop="20260408070000 +0100">
-    <title lang="en">Euronews English Live</title>
-    <desc lang="en">Watch the latest breaking news available 24/7 on Euronews.▶︎ Subscribe to our channel to follow the latest news: https://www.youtube.com/c/euronews?sub_confi...</desc>
-    <icon src="https://i.ytimg.com/vi/pykpO5kQJ98/maxresdefault.jpg?v=63eb92d4"/>
-  </programme>
-  <programme channel="EuronewsEN.yt" start="20260408070000 +0100" stop="20260408100000 +0100">
-    <title lang="en">Euronews English Live</title>
-    <desc lang="en">Watch the latest breaking news available 24/7 on Euronews.▶︎ Subscribe to our channel to follow the latest news: https://www.youtube.com/c/euronews?sub_confi...</desc>
-    <icon src="https://i.ytimg.com/vi/pykpO5kQJ98/maxresdefault.jpg?v=63eb92d4"/>
-  </programme>
-  <programme channel="EuronewsEN.yt" start="20260408100000 +0100" stop="20260408130000 +0100">
-    <title lang="en">Euronews English Live</title>
-    <desc lang="en">Watch the latest breaking news available 24/7 on Euronews.▶︎ Subscribe to our channel to follow the latest news: https://www.youtube.com/c/euronews?sub_confi...</desc>
-    <icon src="https://i.ytimg.com/vi/pykpO5kQJ98/maxresdefault.jpg?v=63eb92d4"/>
-  </programme>
-  <programme channel="EuronewsEN.yt" start="20260408130000 +0100" stop="20260408160000 +0100">
-    <title lang="en">Euronews English Live</title>
-    <desc lang="en">Watch the latest breaking news available 24/7 on Euronews.▶︎ Subscribe to our channel to follow the latest news: https://www.youtube.com/c/euronews?sub_confi...</desc>
-    <icon src="https://i.ytimg.com/vi/pykpO5kQJ98/maxresdefault.jpg?v=63eb92d4"/>
-  </programme>
-  <programme channel="EuronewsEN.yt" start="20260408160000 +0100" stop="20260408190000 +0100">
-    <title lang="en">Euronews English Live</title>
-    <desc lang="en">Watch the latest breaking news available 24/7 on Euronews.▶︎ Subscribe to our channel to follow the latest news: https://www.youtube.com/c/euronews?sub_confi...</desc>
-    <icon src="https://i.ytimg.com/vi/pykpO5kQJ98/maxresdefault.jpg?v=63eb92d4"/>
-  </programme>
   <channel id="Happy.Channel./.Dazzle.tt">
     <display-name lang="en">Happy Channel / Happy Dazzle</display-name>
   </channel>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260407190000 +0100" stop="20260407220000 +0100">
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260407210000 +0100" stop="20260408000000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260407220000 +0100" stop="20260408010000 +0100">
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260408000000 +0100" stop="20260408030000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260408010000 +0100" stop="20260408040000 +0100">
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260408030000 +0100" stop="20260408060000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260408040000 +0100" stop="20260408070000 +0100">
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260408060000 +0100" stop="20260408090000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260408070000 +0100" stop="20260408100000 +0100">
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260408090000 +0100" stop="20260408120000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260408100000 +0100" stop="20260408130000 +0100">
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260408120000 +0100" stop="20260408150000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260408130000 +0100" stop="20260408160000 +0100">
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260408150000 +0100" stop="20260408180000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260408160000 +0100" stop="20260408190000 +0100">
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260408180000 +0100" stop="20260408210000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
@@ -88,42 +45,42 @@
   <channel id="Happy.Channel.247.tt">
     <display-name lang="en">Happy Channel 24/7</display-name>
   </channel>
-  <programme channel="Happy.Channel.247.tt" start="20260407190000 +0100" stop="20260407220000 +0100">
+  <programme channel="Happy.Channel.247.tt" start="20260407210000 +0100" stop="20260408000000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel.247.tt" start="20260407220000 +0100" stop="20260408010000 +0100">
+  <programme channel="Happy.Channel.247.tt" start="20260408000000 +0100" stop="20260408030000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel.247.tt" start="20260408010000 +0100" stop="20260408040000 +0100">
+  <programme channel="Happy.Channel.247.tt" start="20260408030000 +0100" stop="20260408060000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel.247.tt" start="20260408040000 +0100" stop="20260408070000 +0100">
+  <programme channel="Happy.Channel.247.tt" start="20260408060000 +0100" stop="20260408090000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel.247.tt" start="20260408070000 +0100" stop="20260408100000 +0100">
+  <programme channel="Happy.Channel.247.tt" start="20260408090000 +0100" stop="20260408120000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel.247.tt" start="20260408100000 +0100" stop="20260408130000 +0100">
+  <programme channel="Happy.Channel.247.tt" start="20260408120000 +0100" stop="20260408150000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel.247.tt" start="20260408130000 +0100" stop="20260408160000 +0100">
+  <programme channel="Happy.Channel.247.tt" start="20260408150000 +0100" stop="20260408180000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel.247.tt" start="20260408160000 +0100" stop="20260408190000 +0100">
+  <programme channel="Happy.Channel.247.tt" start="20260408180000 +0100" stop="20260408210000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
