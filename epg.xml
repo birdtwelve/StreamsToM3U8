@@ -1,12 +1,50 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="NASALive.yt">
+    <display-name lang="en">NASA Starbase Live</display-name>
+  </channel>
+  <programme channel="NASALive.yt" start="20260411180000 +0100" stop="20260411210000 +0100">
+    <title lang="en">Starbase Live: 24/7 Starship &amp; Super Heavy Development From SpaceX's Boca Chica Facility</title>
+    <desc lang="en">Starship is SpaceX's fully reusable launch system which is being developed at Starbase in Cameron County, Texas. Starbase LIVE provides 24/7 coverage of the ...</desc>
+    <icon src="https://i.ytimg.com/vi/mhJRzQsLZGg/maxresdefault.jpg?v=670be011"/>
+  </programme>
+  <programme channel="NASALive.yt" start="20260411210000 +0100" stop="20260412000000 +0100">
+    <title lang="en">Starbase Live: 24/7 Starship &amp; Super Heavy Development From SpaceX's Boca Chica Facility</title>
+    <desc lang="en">Starship is SpaceX's fully reusable launch system which is being developed at Starbase in Cameron County, Texas. Starbase LIVE provides 24/7 coverage of the ...</desc>
+    <icon src="https://i.ytimg.com/vi/mhJRzQsLZGg/maxresdefault.jpg?v=670be011"/>
+  </programme>
+  <programme channel="NASALive.yt" start="20260412000000 +0100" stop="20260412030000 +0100">
+    <title lang="en">Starbase Live: 24/7 Starship &amp; Super Heavy Development From SpaceX's Boca Chica Facility</title>
+    <desc lang="en">Starship is SpaceX's fully reusable launch system which is being developed at Starbase in Cameron County, Texas. Starbase LIVE provides 24/7 coverage of the ...</desc>
+    <icon src="https://i.ytimg.com/vi/mhJRzQsLZGg/maxresdefault.jpg?v=670be011"/>
+  </programme>
+  <programme channel="NASALive.yt" start="20260412030000 +0100" stop="20260412060000 +0100">
+    <title lang="en">Starbase Live: 24/7 Starship &amp; Super Heavy Development From SpaceX's Boca Chica Facility</title>
+    <desc lang="en">Starship is SpaceX's fully reusable launch system which is being developed at Starbase in Cameron County, Texas. Starbase LIVE provides 24/7 coverage of the ...</desc>
+    <icon src="https://i.ytimg.com/vi/mhJRzQsLZGg/maxresdefault.jpg?v=670be011"/>
+  </programme>
+  <programme channel="NASALive.yt" start="20260412060000 +0100" stop="20260412090000 +0100">
+    <title lang="en">Starbase Live: 24/7 Starship &amp; Super Heavy Development From SpaceX's Boca Chica Facility</title>
+    <desc lang="en">Starship is SpaceX's fully reusable launch system which is being developed at Starbase in Cameron County, Texas. Starbase LIVE provides 24/7 coverage of the ...</desc>
+    <icon src="https://i.ytimg.com/vi/mhJRzQsLZGg/maxresdefault.jpg?v=670be011"/>
+  </programme>
+  <programme channel="NASALive.yt" start="20260412090000 +0100" stop="20260412120000 +0100">
+    <title lang="en">Starbase Live: 24/7 Starship &amp; Super Heavy Development From SpaceX's Boca Chica Facility</title>
+    <desc lang="en">Starship is SpaceX's fully reusable launch system which is being developed at Starbase in Cameron County, Texas. Starbase LIVE provides 24/7 coverage of the ...</desc>
+    <icon src="https://i.ytimg.com/vi/mhJRzQsLZGg/maxresdefault.jpg?v=670be011"/>
+  </programme>
+  <programme channel="NASALive.yt" start="20260412120000 +0100" stop="20260412150000 +0100">
+    <title lang="en">Starbase Live: 24/7 Starship &amp; Super Heavy Development From SpaceX's Boca Chica Facility</title>
+    <desc lang="en">Starship is SpaceX's fully reusable launch system which is being developed at Starbase in Cameron County, Texas. Starbase LIVE provides 24/7 coverage of the ...</desc>
+    <icon src="https://i.ytimg.com/vi/mhJRzQsLZGg/maxresdefault.jpg?v=670be011"/>
+  </programme>
+  <programme channel="NASALive.yt" start="20260412150000 +0100" stop="20260412180000 +0100">
+    <title lang="en">Starbase Live: 24/7 Starship &amp; Super Heavy Development From SpaceX's Boca Chica Facility</title>
+    <desc lang="en">Starship is SpaceX's fully reusable launch system which is being developed at Starbase in Cameron County, Texas. Starbase LIVE provides 24/7 coverage of the ...</desc>
+    <icon src="https://i.ytimg.com/vi/mhJRzQsLZGg/maxresdefault.jpg?v=670be011"/>
+  </programme>
   <channel id="Happy.Channel./.Dazzle.tt">
     <display-name lang="en">Happy Channel / Happy Dazzle</display-name>
   </channel>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260411150000 +0100" stop="20260411180000 +0100">
-    <title lang="en">Twitch</title>
-    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
-    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
-  </programme>
   <programme channel="Happy.Channel./.Dazzle.tt" start="20260411180000 +0100" stop="20260411210000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
@@ -42,14 +80,14 @@
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <channel id="Happy.Channel.247.tt">
-    <display-name lang="en">Happy Channel 24/7</display-name>
-  </channel>
-  <programme channel="Happy.Channel.247.tt" start="20260411150000 +0100" stop="20260411180000 +0100">
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260412150000 +0100" stop="20260412180000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
+  <channel id="Happy.Channel.247.tt">
+    <display-name lang="en">Happy Channel 24/7</display-name>
+  </channel>
   <programme channel="Happy.Channel.247.tt" start="20260411180000 +0100" stop="20260411210000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
@@ -81,6 +119,11 @@
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
   <programme channel="Happy.Channel.247.tt" start="20260412120000 +0100" stop="20260412150000 +0100">
+    <title lang="en">Twitch</title>
+    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
+    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+  </programme>
+  <programme channel="Happy.Channel.247.tt" start="20260412150000 +0100" stop="20260412180000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
