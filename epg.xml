@@ -1,86 +1,43 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ArirangRadio.yt">
-    <display-name lang="en">Arirang Radio</display-name>
-  </channel>
-  <programme channel="ArirangRadio.yt" start="20260621140000 +0100" stop="20260621170000 +0100">
-    <title lang="en">[On-Air] Arirang Radio (아리랑 라디오) | Livestream 24/7 (HD)</title>
-    <desc lang="en">Arirang Radio is the first English broadcasting radio station in Korea. We broadcast a variety of Korean culture including K-Pop music as well as news and us...</desc>
-    <icon src="https://i.ytimg.com/vi/P1fX2GGdVS0/maxresdefault.jpg?v=2f7d8"/>
-  </programme>
-  <programme channel="ArirangRadio.yt" start="20260621170000 +0100" stop="20260621200000 +0100">
-    <title lang="en">[On-Air] Arirang Radio (아리랑 라디오) | Livestream 24/7 (HD)</title>
-    <desc lang="en">Arirang Radio is the first English broadcasting radio station in Korea. We broadcast a variety of Korean culture including K-Pop music as well as news and us...</desc>
-    <icon src="https://i.ytimg.com/vi/P1fX2GGdVS0/maxresdefault.jpg?v=2f7d8"/>
-  </programme>
-  <programme channel="ArirangRadio.yt" start="20260621200000 +0100" stop="20260621230000 +0100">
-    <title lang="en">[On-Air] Arirang Radio (아리랑 라디오) | Livestream 24/7 (HD)</title>
-    <desc lang="en">Arirang Radio is the first English broadcasting radio station in Korea. We broadcast a variety of Korean culture including K-Pop music as well as news and us...</desc>
-    <icon src="https://i.ytimg.com/vi/P1fX2GGdVS0/maxresdefault.jpg?v=2f7d8"/>
-  </programme>
-  <programme channel="ArirangRadio.yt" start="20260621230000 +0100" stop="20260622020000 +0100">
-    <title lang="en">[On-Air] Arirang Radio (아리랑 라디오) | Livestream 24/7 (HD)</title>
-    <desc lang="en">Arirang Radio is the first English broadcasting radio station in Korea. We broadcast a variety of Korean culture including K-Pop music as well as news and us...</desc>
-    <icon src="https://i.ytimg.com/vi/P1fX2GGdVS0/maxresdefault.jpg?v=2f7d8"/>
-  </programme>
-  <programme channel="ArirangRadio.yt" start="20260622020000 +0100" stop="20260622050000 +0100">
-    <title lang="en">[On-Air] Arirang Radio (아리랑 라디오) | Livestream 24/7 (HD)</title>
-    <desc lang="en">Arirang Radio is the first English broadcasting radio station in Korea. We broadcast a variety of Korean culture including K-Pop music as well as news and us...</desc>
-    <icon src="https://i.ytimg.com/vi/P1fX2GGdVS0/maxresdefault.jpg?v=2f7d8"/>
-  </programme>
-  <programme channel="ArirangRadio.yt" start="20260622050000 +0100" stop="20260622080000 +0100">
-    <title lang="en">[On-Air] Arirang Radio (아리랑 라디오) | Livestream 24/7 (HD)</title>
-    <desc lang="en">Arirang Radio is the first English broadcasting radio station in Korea. We broadcast a variety of Korean culture including K-Pop music as well as news and us...</desc>
-    <icon src="https://i.ytimg.com/vi/P1fX2GGdVS0/maxresdefault.jpg?v=2f7d8"/>
-  </programme>
-  <programme channel="ArirangRadio.yt" start="20260622080000 +0100" stop="20260622110000 +0100">
-    <title lang="en">[On-Air] Arirang Radio (아리랑 라디오) | Livestream 24/7 (HD)</title>
-    <desc lang="en">Arirang Radio is the first English broadcasting radio station in Korea. We broadcast a variety of Korean culture including K-Pop music as well as news and us...</desc>
-    <icon src="https://i.ytimg.com/vi/P1fX2GGdVS0/maxresdefault.jpg?v=2f7d8"/>
-  </programme>
-  <programme channel="ArirangRadio.yt" start="20260622110000 +0100" stop="20260622140000 +0100">
-    <title lang="en">[On-Air] Arirang Radio (아리랑 라디오) | Livestream 24/7 (HD)</title>
-    <desc lang="en">Arirang Radio is the first English broadcasting radio station in Korea. We broadcast a variety of Korean culture including K-Pop music as well as news and us...</desc>
-    <icon src="https://i.ytimg.com/vi/P1fX2GGdVS0/maxresdefault.jpg?v=2f7d8"/>
-  </programme>
   <channel id="Happy.Channel./.Dazzle.tt">
     <display-name lang="en">Happy Channel / Happy Dazzle</display-name>
   </channel>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260621140000 +0100" stop="20260621170000 +0100">
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260621160000 +0100" stop="20260621190000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260621170000 +0100" stop="20260621200000 +0100">
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260621190000 +0100" stop="20260621220000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260621200000 +0100" stop="20260621230000 +0100">
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260621220000 +0100" stop="20260622010000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260621230000 +0100" stop="20260622020000 +0100">
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260622010000 +0100" stop="20260622040000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260622020000 +0100" stop="20260622050000 +0100">
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260622040000 +0100" stop="20260622070000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260622050000 +0100" stop="20260622080000 +0100">
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260622070000 +0100" stop="20260622100000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260622080000 +0100" stop="20260622110000 +0100">
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260622100000 +0100" stop="20260622130000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260622110000 +0100" stop="20260622140000 +0100">
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260622130000 +0100" stop="20260622160000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
@@ -88,42 +45,42 @@
   <channel id="Happy.Channel.247.tt">
     <display-name lang="en">Happy Channel 24/7</display-name>
   </channel>
-  <programme channel="Happy.Channel.247.tt" start="20260621140000 +0100" stop="20260621170000 +0100">
+  <programme channel="Happy.Channel.247.tt" start="20260621160000 +0100" stop="20260621190000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel.247.tt" start="20260621170000 +0100" stop="20260621200000 +0100">
+  <programme channel="Happy.Channel.247.tt" start="20260621190000 +0100" stop="20260621220000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel.247.tt" start="20260621200000 +0100" stop="20260621230000 +0100">
+  <programme channel="Happy.Channel.247.tt" start="20260621220000 +0100" stop="20260622010000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel.247.tt" start="20260621230000 +0100" stop="20260622020000 +0100">
+  <programme channel="Happy.Channel.247.tt" start="20260622010000 +0100" stop="20260622040000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel.247.tt" start="20260622020000 +0100" stop="20260622050000 +0100">
+  <programme channel="Happy.Channel.247.tt" start="20260622040000 +0100" stop="20260622070000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel.247.tt" start="20260622050000 +0100" stop="20260622080000 +0100">
+  <programme channel="Happy.Channel.247.tt" start="20260622070000 +0100" stop="20260622100000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel.247.tt" start="20260622080000 +0100" stop="20260622110000 +0100">
+  <programme channel="Happy.Channel.247.tt" start="20260622100000 +0100" stop="20260622130000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel.247.tt" start="20260622110000 +0100" stop="20260622140000 +0100">
+  <programme channel="Happy.Channel.247.tt" start="20260622130000 +0100" stop="20260622160000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
