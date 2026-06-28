@@ -1,55 +1,93 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="AlJazeera.yt">
+    <display-name lang="en">Al Jazeera English</display-name>
+  </channel>
+  <programme channel="AlJazeera.yt" start="20260628190000 +0100" stop="20260628220000 +0100">
+    <title lang="en">🔴 Al Jazeera English | Live</title>
+    <desc lang="en">When Al Jazeera launched from the Qatari capital, Doha, on Friday, November 1, 1996, it was the first independent news channel in the Arab world. Media in th...</desc>
+    <icon src="https://i.ytimg.com/vi/gCNeDWCI0vo/maxresdefault.jpg?v=640a78c8"/>
+  </programme>
+  <programme channel="AlJazeera.yt" start="20260628220000 +0100" stop="20260629010000 +0100">
+    <title lang="en">🔴 Al Jazeera English | Live</title>
+    <desc lang="en">When Al Jazeera launched from the Qatari capital, Doha, on Friday, November 1, 1996, it was the first independent news channel in the Arab world. Media in th...</desc>
+    <icon src="https://i.ytimg.com/vi/gCNeDWCI0vo/maxresdefault.jpg?v=640a78c8"/>
+  </programme>
+  <programme channel="AlJazeera.yt" start="20260629010000 +0100" stop="20260629040000 +0100">
+    <title lang="en">🔴 Al Jazeera English | Live</title>
+    <desc lang="en">When Al Jazeera launched from the Qatari capital, Doha, on Friday, November 1, 1996, it was the first independent news channel in the Arab world. Media in th...</desc>
+    <icon src="https://i.ytimg.com/vi/gCNeDWCI0vo/maxresdefault.jpg?v=640a78c8"/>
+  </programme>
+  <programme channel="AlJazeera.yt" start="20260629040000 +0100" stop="20260629070000 +0100">
+    <title lang="en">🔴 Al Jazeera English | Live</title>
+    <desc lang="en">When Al Jazeera launched from the Qatari capital, Doha, on Friday, November 1, 1996, it was the first independent news channel in the Arab world. Media in th...</desc>
+    <icon src="https://i.ytimg.com/vi/gCNeDWCI0vo/maxresdefault.jpg?v=640a78c8"/>
+  </programme>
+  <programme channel="AlJazeera.yt" start="20260629070000 +0100" stop="20260629100000 +0100">
+    <title lang="en">🔴 Al Jazeera English | Live</title>
+    <desc lang="en">When Al Jazeera launched from the Qatari capital, Doha, on Friday, November 1, 1996, it was the first independent news channel in the Arab world. Media in th...</desc>
+    <icon src="https://i.ytimg.com/vi/gCNeDWCI0vo/maxresdefault.jpg?v=640a78c8"/>
+  </programme>
+  <programme channel="AlJazeera.yt" start="20260629100000 +0100" stop="20260629130000 +0100">
+    <title lang="en">🔴 Al Jazeera English | Live</title>
+    <desc lang="en">When Al Jazeera launched from the Qatari capital, Doha, on Friday, November 1, 1996, it was the first independent news channel in the Arab world. Media in th...</desc>
+    <icon src="https://i.ytimg.com/vi/gCNeDWCI0vo/maxresdefault.jpg?v=640a78c8"/>
+  </programme>
+  <programme channel="AlJazeera.yt" start="20260629130000 +0100" stop="20260629160000 +0100">
+    <title lang="en">🔴 Al Jazeera English | Live</title>
+    <desc lang="en">When Al Jazeera launched from the Qatari capital, Doha, on Friday, November 1, 1996, it was the first independent news channel in the Arab world. Media in th...</desc>
+    <icon src="https://i.ytimg.com/vi/gCNeDWCI0vo/maxresdefault.jpg?v=640a78c8"/>
+  </programme>
+  <programme channel="AlJazeera.yt" start="20260629160000 +0100" stop="20260629190000 +0100">
+    <title lang="en">🔴 Al Jazeera English | Live</title>
+    <desc lang="en">When Al Jazeera launched from the Qatari capital, Doha, on Friday, November 1, 1996, it was the first independent news channel in the Arab world. Media in th...</desc>
+    <icon src="https://i.ytimg.com/vi/gCNeDWCI0vo/maxresdefault.jpg?v=640a78c8"/>
+  </programme>
   <channel id="Happy.Channel./.Dazzle.tt">
     <display-name lang="en">Happy Channel / Happy Dazzle</display-name>
   </channel>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260628160000 +0100" stop="20260628190000 +0100">
-    <title lang="en">littlehappytv</title>
-    <desc lang="en">Happy Solara</desc>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/e21f91a8-4486-40cf-a944-108419d733c7-profile_image-300x300.png"/>
-  </programme>
   <programme channel="Happy.Channel./.Dazzle.tt" start="20260628190000 +0100" stop="20260628220000 +0100">
-    <title lang="en">littlehappytv</title>
-    <desc lang="en">Happy Solara</desc>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/e21f91a8-4486-40cf-a944-108419d733c7-profile_image-300x300.png"/>
-  </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260628220000 +0100" stop="20260629010000 +0100">
-    <title lang="en">littlehappytv</title>
-    <desc lang="en">Happy Solara</desc>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/e21f91a8-4486-40cf-a944-108419d733c7-profile_image-300x300.png"/>
-  </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260629010000 +0100" stop="20260629040000 +0100">
-    <title lang="en">littlehappytv</title>
-    <desc lang="en">Happy Solara</desc>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/e21f91a8-4486-40cf-a944-108419d733c7-profile_image-300x300.png"/>
-  </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260629040000 +0100" stop="20260629070000 +0100">
-    <title lang="en">littlehappytv</title>
-    <desc lang="en">Happy Solara</desc>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/e21f91a8-4486-40cf-a944-108419d733c7-profile_image-300x300.png"/>
-  </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260629070000 +0100" stop="20260629100000 +0100">
-    <title lang="en">littlehappytv</title>
-    <desc lang="en">Happy Solara</desc>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/e21f91a8-4486-40cf-a944-108419d733c7-profile_image-300x300.png"/>
-  </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260629100000 +0100" stop="20260629130000 +0100">
-    <title lang="en">littlehappytv</title>
-    <desc lang="en">Happy Solara</desc>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/e21f91a8-4486-40cf-a944-108419d733c7-profile_image-300x300.png"/>
-  </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260629130000 +0100" stop="20260629160000 +0100">
-    <title lang="en">littlehappytv</title>
-    <desc lang="en">Happy Solara</desc>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/e21f91a8-4486-40cf-a944-108419d733c7-profile_image-300x300.png"/>
-  </programme>
-  <channel id="Happy.Channel.247.tt">
-    <display-name lang="en">Happy Channel 24/7</display-name>
-  </channel>
-  <programme channel="Happy.Channel.247.tt" start="20260628160000 +0100" stop="20260628190000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260628220000 +0100" stop="20260629010000 +0100">
+    <title lang="en">Twitch</title>
+    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
+    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+  </programme>
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260629010000 +0100" stop="20260629040000 +0100">
+    <title lang="en">Twitch</title>
+    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
+    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+  </programme>
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260629040000 +0100" stop="20260629070000 +0100">
+    <title lang="en">Twitch</title>
+    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
+    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+  </programme>
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260629070000 +0100" stop="20260629100000 +0100">
+    <title lang="en">Twitch</title>
+    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
+    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+  </programme>
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260629100000 +0100" stop="20260629130000 +0100">
+    <title lang="en">Twitch</title>
+    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
+    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+  </programme>
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260629130000 +0100" stop="20260629160000 +0100">
+    <title lang="en">Twitch</title>
+    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
+    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+  </programme>
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260629160000 +0100" stop="20260629190000 +0100">
+    <title lang="en">Twitch</title>
+    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
+    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+  </programme>
+  <channel id="Happy.Channel.247.tt">
+    <display-name lang="en">Happy Channel 24/7</display-name>
+  </channel>
   <programme channel="Happy.Channel.247.tt" start="20260628190000 +0100" stop="20260628220000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
@@ -81,6 +119,11 @@
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
   <programme channel="Happy.Channel.247.tt" start="20260629130000 +0100" stop="20260629160000 +0100">
+    <title lang="en">Twitch</title>
+    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
+    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+  </programme>
+  <programme channel="Happy.Channel.247.tt" start="20260629160000 +0100" stop="20260629190000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
