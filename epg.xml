@@ -1,43 +1,86 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="JazzRadio.yt">
+    <display-name lang="en">Relaxing Jazz Piano Radio</display-name>
+  </channel>
+  <programme channel="JazzRadio.yt" start="20260701090000 +0100" stop="20260701120000 +0100">
+    <title lang="en">Relaxing Jazz Piano Radio - Slow Jazz Music - 24/7 Live Stream - Music For Work &amp; Study</title>
+    <desc lang="en">💿 Listen Everywherehttps://bgmc.lnk.to/GakvlKNr_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmc...</desc>
+    <icon src="https://i.ytimg.com/vi/Dx5qFachd3A/maxresdefault.jpg?v=5dae1cec"/>
+  </programme>
+  <programme channel="JazzRadio.yt" start="20260701120000 +0100" stop="20260701150000 +0100">
+    <title lang="en">Relaxing Jazz Piano Radio - Slow Jazz Music - 24/7 Live Stream - Music For Work &amp; Study</title>
+    <desc lang="en">💿 Listen Everywherehttps://bgmc.lnk.to/GakvlKNr_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmc...</desc>
+    <icon src="https://i.ytimg.com/vi/Dx5qFachd3A/maxresdefault.jpg?v=5dae1cec"/>
+  </programme>
+  <programme channel="JazzRadio.yt" start="20260701150000 +0100" stop="20260701180000 +0100">
+    <title lang="en">Relaxing Jazz Piano Radio - Slow Jazz Music - 24/7 Live Stream - Music For Work &amp; Study</title>
+    <desc lang="en">💿 Listen Everywherehttps://bgmc.lnk.to/GakvlKNr_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmc...</desc>
+    <icon src="https://i.ytimg.com/vi/Dx5qFachd3A/maxresdefault.jpg?v=5dae1cec"/>
+  </programme>
+  <programme channel="JazzRadio.yt" start="20260701180000 +0100" stop="20260701210000 +0100">
+    <title lang="en">Relaxing Jazz Piano Radio - Slow Jazz Music - 24/7 Live Stream - Music For Work &amp; Study</title>
+    <desc lang="en">💿 Listen Everywherehttps://bgmc.lnk.to/GakvlKNr_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmc...</desc>
+    <icon src="https://i.ytimg.com/vi/Dx5qFachd3A/maxresdefault.jpg?v=5dae1cec"/>
+  </programme>
+  <programme channel="JazzRadio.yt" start="20260701210000 +0100" stop="20260702000000 +0100">
+    <title lang="en">Relaxing Jazz Piano Radio - Slow Jazz Music - 24/7 Live Stream - Music For Work &amp; Study</title>
+    <desc lang="en">💿 Listen Everywherehttps://bgmc.lnk.to/GakvlKNr_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmc...</desc>
+    <icon src="https://i.ytimg.com/vi/Dx5qFachd3A/maxresdefault.jpg?v=5dae1cec"/>
+  </programme>
+  <programme channel="JazzRadio.yt" start="20260702000000 +0100" stop="20260702030000 +0100">
+    <title lang="en">Relaxing Jazz Piano Radio - Slow Jazz Music - 24/7 Live Stream - Music For Work &amp; Study</title>
+    <desc lang="en">💿 Listen Everywherehttps://bgmc.lnk.to/GakvlKNr_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmc...</desc>
+    <icon src="https://i.ytimg.com/vi/Dx5qFachd3A/maxresdefault.jpg?v=5dae1cec"/>
+  </programme>
+  <programme channel="JazzRadio.yt" start="20260702030000 +0100" stop="20260702060000 +0100">
+    <title lang="en">Relaxing Jazz Piano Radio - Slow Jazz Music - 24/7 Live Stream - Music For Work &amp; Study</title>
+    <desc lang="en">💿 Listen Everywherehttps://bgmc.lnk.to/GakvlKNr_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmc...</desc>
+    <icon src="https://i.ytimg.com/vi/Dx5qFachd3A/maxresdefault.jpg?v=5dae1cec"/>
+  </programme>
+  <programme channel="JazzRadio.yt" start="20260702060000 +0100" stop="20260702090000 +0100">
+    <title lang="en">Relaxing Jazz Piano Radio - Slow Jazz Music - 24/7 Live Stream - Music For Work &amp; Study</title>
+    <desc lang="en">💿 Listen Everywherehttps://bgmc.lnk.to/GakvlKNr_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmc...</desc>
+    <icon src="https://i.ytimg.com/vi/Dx5qFachd3A/maxresdefault.jpg?v=5dae1cec"/>
+  </programme>
   <channel id="Happy.Channel./.Dazzle.tt">
     <display-name lang="en">Happy Channel / Happy Dazzle</display-name>
   </channel>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260701040000 +0100" stop="20260701070000 +0100">
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260701090000 +0100" stop="20260701120000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260701070000 +0100" stop="20260701100000 +0100">
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260701120000 +0100" stop="20260701150000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260701100000 +0100" stop="20260701130000 +0100">
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260701150000 +0100" stop="20260701180000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260701130000 +0100" stop="20260701160000 +0100">
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260701180000 +0100" stop="20260701210000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260701160000 +0100" stop="20260701190000 +0100">
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260701210000 +0100" stop="20260702000000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260701190000 +0100" stop="20260701220000 +0100">
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260702000000 +0100" stop="20260702030000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260701220000 +0100" stop="20260702010000 +0100">
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260702030000 +0100" stop="20260702060000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel./.Dazzle.tt" start="20260702010000 +0100" stop="20260702040000 +0100">
+  <programme channel="Happy.Channel./.Dazzle.tt" start="20260702060000 +0100" stop="20260702090000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
@@ -45,42 +88,42 @@
   <channel id="Happy.Channel.247.tt">
     <display-name lang="en">Happy Channel 24/7</display-name>
   </channel>
-  <programme channel="Happy.Channel.247.tt" start="20260701040000 +0100" stop="20260701070000 +0100">
+  <programme channel="Happy.Channel.247.tt" start="20260701090000 +0100" stop="20260701120000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel.247.tt" start="20260701070000 +0100" stop="20260701100000 +0100">
+  <programme channel="Happy.Channel.247.tt" start="20260701120000 +0100" stop="20260701150000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel.247.tt" start="20260701100000 +0100" stop="20260701130000 +0100">
+  <programme channel="Happy.Channel.247.tt" start="20260701150000 +0100" stop="20260701180000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel.247.tt" start="20260701130000 +0100" stop="20260701160000 +0100">
+  <programme channel="Happy.Channel.247.tt" start="20260701180000 +0100" stop="20260701210000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel.247.tt" start="20260701160000 +0100" stop="20260701190000 +0100">
+  <programme channel="Happy.Channel.247.tt" start="20260701210000 +0100" stop="20260702000000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel.247.tt" start="20260701190000 +0100" stop="20260701220000 +0100">
+  <programme channel="Happy.Channel.247.tt" start="20260702000000 +0100" stop="20260702030000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel.247.tt" start="20260701220000 +0100" stop="20260702010000 +0100">
+  <programme channel="Happy.Channel.247.tt" start="20260702030000 +0100" stop="20260702060000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="Happy.Channel.247.tt" start="20260702010000 +0100" stop="20260702040000 +0100">
+  <programme channel="Happy.Channel.247.tt" start="20260702060000 +0100" stop="20260702090000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
